@@ -15,9 +15,9 @@ pip install numpy pandas matplotlib tqdm scipy scikit-learn
 
 ## Downloading data
 
-Download link
+Download link: [Google Drive](https://drive.google.com/file/d/1maw8QuWMZ2_FovZwP6jmHy42HizEJwd2/view?usp=sharing)
 
-Consist of 
+A zip file contains 
 1. `emb`, embeddings of each experiment settings.
 2. `isblinkingonly`, array of boolean for each frame of video indicates that whether the patient is blinking in that frame.
 
